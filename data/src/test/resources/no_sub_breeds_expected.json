@@ -1,0 +1,14 @@
+{
+  "dogs": [
+    {
+      "dogFullName": "breed1",
+      "dogBreedName": "breed1",
+      "dogSubBreedName": ""
+    },
+    {
+      "dogFullName": "breed2",
+      "dogBreedName": "breed2",
+      "dogSubBreedName": ""
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 object ProjectConfig {
-    const val appId ="com.LLoyd"
+    const val appId ="com.mvi"
     const val minSdk =24
     const val targetSdk =34
     const val versionCode =1

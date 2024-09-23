@@ -1,4 +1,4 @@
-# Dummy app
+# MVI
 
 ## Tech Stack
 
